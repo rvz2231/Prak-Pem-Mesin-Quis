@@ -1,0 +1,11 @@
+# Folder Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# File Sistem Operasi
+.DS_Store
+Thumbs.db
